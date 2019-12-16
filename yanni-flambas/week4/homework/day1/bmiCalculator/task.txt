@@ -1,0 +1,6 @@
+BMI Calculator
+Calculate the body mass index (BMI) for an individual, given their height and weight
+BMI = kg/m^2
+where
+kg = wieght in kilograms
+m^2 = height in metres squared
